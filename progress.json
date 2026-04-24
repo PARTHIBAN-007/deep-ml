@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:37:01.718Z",
+  "generated_at": "2026-09-19T15:37:03.735Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -39,6 +39,97 @@
       "last_pushed_at": "2026-04-23T15:45:11.746Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-04-24T14:28:12.343Z",
+      "last_pushed_at": "2026-04-24T14:28:12.343Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-04-24T14:28:31.820Z",
+      "last_pushed_at": "2026-04-24T14:28:31.820Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-04-24T14:31:28.857Z",
+      "last_pushed_at": "2026-04-24T14:31:28.857Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-04-24T14:32:36.386Z",
+      "last_pushed_at": "2026-04-24T14:32:36.386Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-04-24T14:33:17.495Z",
+      "last_pushed_at": "2026-04-24T14:33:17.495Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-04-24T14:33:48.041Z",
+      "last_pushed_at": "2026-04-24T14:33:48.041Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-04-24T14:37:08.891Z",
+      "last_pushed_at": "2026-04-24T14:37:08.891Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
