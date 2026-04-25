@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:37:03.735Z",
+  "generated_at": "2026-09-19T15:37:05.349Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -130,6 +130,32 @@
       "last_pushed_at": "2026-04-24T14:37:08.891Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-04-25T15:35:05.183Z",
+      "last_pushed_at": "2026-04-25T15:35:05.183Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-04-25T15:37:15.596Z",
+      "last_pushed_at": "2026-04-25T15:37:15.596Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
