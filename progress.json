@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:37:11.378Z",
+  "generated_at": "2026-09-19T15:37:12.750Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -208,6 +208,45 @@
       "last_pushed_at": "2026-04-29T17:33:49.114Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-04-30T15:39:24.870Z",
+      "last_pushed_at": "2026-04-30T15:39:24.870Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-04-30T15:44:23.025Z",
+      "last_pushed_at": "2026-04-30T15:44:23.025Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-04-30T15:45:06.800Z",
+      "last_pushed_at": "2026-04-30T15:45:06.800Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }

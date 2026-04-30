@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 16 problems · 0 labs · 0 math
+**19** solved · 19 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,7 +12,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-04-30 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-04-24 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-04-30 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-04-25 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-04-24 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-04-24 | [solution](problems/0083-dot-product-calculator) |
@@ -26,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-04-24 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-04-23 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-04-24 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-04-30 | [solution](problems/0121-vector-element-wise-sum) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-04-27 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-04-28 | [solution](problems/0009-matrix-times-matrix) |
 
