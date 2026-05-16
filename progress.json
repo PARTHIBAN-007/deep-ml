@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:38:23.024Z",
+  "generated_at": "2026-09-19T15:38:24.649Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -520,6 +520,58 @@
       "last_pushed_at": "2026-05-15T13:20:53.372Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:77": {
+      "kind": "problem",
+      "id": "77",
+      "title": "Calculate Performance Metrics for a Classification Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/77",
+      "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
+      "first_solved_at": "2026-05-16T10:14:01.276Z",
+      "last_pushed_at": "2026-05-16T10:14:01.276Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-05-16T10:18:33.757Z",
+      "last_pushed_at": "2026-05-16T10:18:33.757Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-05-16T10:21:44.170Z",
+      "last_pushed_at": "2026-05-16T10:21:44.170Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2026-05-16T10:40:31.195Z",
+      "last_pushed_at": "2026-05-16T10:40:31.195Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
