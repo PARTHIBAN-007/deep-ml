@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:38:29.010Z",
+  "generated_at": "2026-09-19T15:38:30.421Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -611,6 +611,58 @@
       "last_pushed_at": "2026-05-19T16:13:39.511Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:94": {
+      "kind": "problem",
+      "id": "94",
+      "title": "Implement Multi-Head Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/94",
+      "path": "problems/0094-implement-multi-head-attention",
+      "first_solved_at": "2026-05-20T14:26:53.734Z",
+      "last_pushed_at": "2026-05-20T14:26:53.734Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-05-20T14:34:06.750Z",
+      "last_pushed_at": "2026-05-20T14:34:06.750Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2026-05-20T14:50:39.899Z",
+      "last_pushed_at": "2026-05-20T14:50:39.899Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:85": {
+      "kind": "problem",
+      "id": "85",
+      "title": "Positional Encoding Calculator",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/85",
+      "path": "problems/0085-positional-encoding-calculator",
+      "first_solved_at": "2026-05-20T15:10:02.430Z",
+      "last_pushed_at": "2026-05-20T15:10:02.430Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
