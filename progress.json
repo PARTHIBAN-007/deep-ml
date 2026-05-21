@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:38:30.421Z",
+  "generated_at": "2026-09-19T15:38:32.007Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -663,6 +663,84 @@
       "last_pushed_at": "2026-05-20T15:10:02.430Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:156": {
+      "kind": "problem",
+      "id": "156",
+      "title": "Implement SwiGLU activation function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/156",
+      "path": "problems/0156-implement-swiglu-activation-function",
+      "first_solved_at": "2026-05-21T07:27:21.831Z",
+      "last_pushed_at": "2026-05-21T07:27:21.831Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:372": {
+      "kind": "problem",
+      "id": "372",
+      "title": "Implement RMSNorm (Root Mean Square Layer Normalization)",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/372",
+      "path": "problems/0372-implement-rmsnorm-root-mean-square-layer-normalization",
+      "first_solved_at": "2026-05-21T07:35:07.687Z",
+      "last_pushed_at": "2026-05-21T07:35:07.687Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-05-21T07:45:02.309Z",
+      "last_pushed_at": "2026-05-21T07:45:02.309Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:147": {
+      "kind": "problem",
+      "id": "147",
+      "title": "GeLU Activation Function ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/147",
+      "path": "problems/0147-gelu-activation-function",
+      "first_solved_at": "2026-05-21T07:57:17.411Z",
+      "last_pushed_at": "2026-05-21T07:57:17.411Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-05-21T08:00:30.341Z",
+      "last_pushed_at": "2026-05-21T08:00:30.341Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:102": {
+      "kind": "problem",
+      "id": "102",
+      "title": "Implement the Swish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/102",
+      "path": "problems/0102-implement-the-swish-activation-function",
+      "first_solved_at": "2026-05-21T08:04:42.398Z",
+      "last_pushed_at": "2026-05-21T08:04:42.398Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
