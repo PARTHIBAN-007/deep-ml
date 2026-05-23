@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:38:33.696Z",
+  "generated_at": "2026-09-19T15:38:35.156Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -752,6 +752,19 @@
       "path": "problems/0390-implement-multiquery-attention-mqa",
       "first_solved_at": "2026-05-22T14:00:07.983Z",
       "last_pushed_at": "2026-05-22T14:00:07.983Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:391": {
+      "kind": "problem",
+      "id": "391",
+      "title": "Implement Grouped Query Attention (GQA)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/391",
+      "path": "problems/0391-implement-grouped-query-attention-gqa",
+      "first_solved_at": "2026-05-23T13:42:08.853Z",
+      "last_pushed_at": "2026-05-23T13:42:08.853Z",
       "language": "python",
       "lines": 23
     }
