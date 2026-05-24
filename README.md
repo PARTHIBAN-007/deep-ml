@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**59** solved · 59 problems · 0 labs · 0 math
+**60** solved · 60 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -68,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-05-18 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-04-28 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-05-10 | [solution](problems/0007-matrix-transformation) |
+| [Rotary Positional Embeddings (RoPE)](https://www.deep-ml.com/problems/381) | medium | 2026-05-24 | [solution](problems/0381-rotary-positional-embeddings-rope) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-05-20 | [solution](problems/0094-implement-multi-head-attention) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-05-20 | [solution](problems/0085-positional-encoding-calculator) |
