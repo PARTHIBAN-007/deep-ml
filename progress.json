@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:38:36.564Z",
+  "generated_at": "2026-09-19T15:38:38.010Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -780,6 +780,45 @@
       "last_pushed_at": "2026-05-24T16:18:29.553Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-05-25T08:28:04.555Z",
+      "last_pushed_at": "2026-05-25T08:28:04.555Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-05-25T08:39:12.855Z",
+      "last_pushed_at": "2026-05-25T08:39:12.855Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-05-25T08:52:21.742Z",
+      "last_pushed_at": "2026-05-25T08:52:21.742Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
