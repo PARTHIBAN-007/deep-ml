@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:38:42.277Z",
+  "generated_at": "2026-09-19T15:38:43.736Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -858,6 +858,19 @@
       "last_pushed_at": "2026-05-28T13:44:06.066Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:1047": {
+      "kind": "problem",
+      "id": "1047",
+      "title": "Gemma-Style RMSNorm with Optional Scale",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1047",
+      "path": "problems/1047-gemma-style-rmsnorm-with-optional-scale",
+      "first_solved_at": "2026-05-29T14:00:14.753Z",
+      "last_pushed_at": "2026-05-29T14:00:14.753Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
