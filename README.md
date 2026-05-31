@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**68** solved · 68 problems · 0 labs · 0 math
+**69** solved · 69 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement RMSNorm (Root Mean Square Layer Normalization)](https://www.deep-ml.com/problems/372) | easy | 2026-05-21 | [solution](problems/0372-implement-rmsnorm-root-mean-square-layer-normalization) |
 | [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-05-21 | [solution](problems/0156-implement-swiglu-activation-function) |
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-05-21 | [solution](problems/0102-implement-the-swish-activation-function) |
+| [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-05-31 | [solution](problems/0264-implement-the-tanh-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-05-16 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-05-03 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-05-08 | [solution](problems/0015-linear-regression-using-gradient-descent) |
