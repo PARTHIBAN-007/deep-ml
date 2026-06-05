@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:39:24.099Z",
+  "generated_at": "2026-10-08T15:39:26.936Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -949,6 +949,32 @@
       "last_pushed_at": "2026-06-04T16:12:23.388Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:244": {
+      "kind": "problem",
+      "id": "244",
+      "title": "Compute Total Probability using Law of Total Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/244",
+      "path": "problems/0244-compute-total-probability-using-law-of-total-probability",
+      "first_solved_at": "2026-06-05T16:12:19.796Z",
+      "last_pushed_at": "2026-06-05T16:12:19.796Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:168": {
+      "kind": "problem",
+      "id": "168",
+      "title": "Calculate Conditional Probability from Data",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/168",
+      "path": "problems/0168-calculate-conditional-probability-from-data",
+      "first_solved_at": "2026-06-05T16:20:07.170Z",
+      "last_pushed_at": "2026-06-05T16:20:07.170Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }

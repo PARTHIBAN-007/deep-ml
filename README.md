@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**73** solved · 73 problems · 0 labs · 0 math
+**75** solved · 75 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-05-21 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-05-04 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-05-15 | [solution](problems/0036-calculate-accuracy-score) |
+| [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-06-05 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-04-30 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-05-05 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate F1 Score from Predicted and True Labels](https://www.deep-ml.com/problems/91) | easy | 2026-06-01 | [solution](problems/0091-calculate-f1-score-from-predicted-and-true-labels) |
@@ -67,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-05-19 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-04-27 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-05-16 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-06-05 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-05-14 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-05-26 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-05-23 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
