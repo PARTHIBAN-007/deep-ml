@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:39:31.476Z",
+  "generated_at": "2026-10-08T15:39:33.464Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1053,6 +1053,32 @@
       "last_pushed_at": "2026-06-07T15:53:32.399Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:405": {
+      "kind": "problem",
+      "id": "405",
+      "title": "Multi-Head Latent Attention (MLA)",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/405",
+      "path": "problems/0405-multi-head-latent-attention-mla",
+      "first_solved_at": "2026-06-08T13:47:41.071Z",
+      "last_pushed_at": "2026-06-08T13:47:41.071Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:904": {
+      "kind": "problem",
+      "id": "904",
+      "title": "Implement Multi-Head Self-Attention",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/904",
+      "path": "problems/0904-implement-multi-head-self-attention",
+      "first_solved_at": "2026-06-08T14:14:49.089Z",
+      "last_pushed_at": "2026-06-08T14:14:49.089Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
