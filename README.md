@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**84** solved · 84 problems · 0 labs · 0 math
+**87** solved · 87 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-04-25 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-04-24 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-05-01 | [solution](problems/0078-descriptive-statistics-calculator) |
+| [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-06-10 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-04-24 | [solution](problems/0083-dot-product-calculator) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-06-03 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-05-06 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
@@ -50,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-05-31 | [solution](problems/0264-implement-the-tanh-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-05-16 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-05-03 | [solution](problems/0044-leaky-relu-activation-function) |
+| [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-06-10 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-05-08 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-04-29 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-04-26 | [solution](problems/0195-matrix-determinant-trace) |
@@ -76,6 +78,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-05-26 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-05-23 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-05-16 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-06-10 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-05-20 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-05-20 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Multiquery Attention (MQA)](https://www.deep-ml.com/problems/390) | medium | 2026-05-22 | [solution](problems/0390-implement-multiquery-attention-mqa) |

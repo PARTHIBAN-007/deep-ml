@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:39:35.728Z",
+  "generated_at": "2026-10-08T15:39:37.845Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1092,6 +1092,45 @@
       "last_pushed_at": "2026-06-09T15:39:41.211Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-06-10T14:56:43.506Z",
+      "last_pushed_at": "2026-06-10T14:56:43.506Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:86": {
+      "kind": "problem",
+      "id": "86",
+      "title": "Detect Overfitting or Underfitting",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/86",
+      "path": "problems/0086-detect-overfitting-or-underfitting",
+      "first_solved_at": "2026-06-10T14:59:01.090Z",
+      "last_pushed_at": "2026-06-10T14:59:01.090Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:173": {
+      "kind": "problem",
+      "id": "173",
+      "title": "Implement K-Nearest Neighbors",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/173",
+      "path": "problems/0173-implement-k-nearest-neighbors",
+      "first_solved_at": "2026-06-10T15:10:03.071Z",
+      "last_pushed_at": "2026-06-10T15:10:03.071Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
