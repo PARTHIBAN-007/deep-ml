@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**101** solved · 101 problems · 0 labs · 0 math
+**102** solved · 102 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -82,6 +82,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-06-12 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-04-27 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-05-16 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2026-06-14 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-06-05 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-06-07 | [solution](problems/0327-engram-context-aware-gating) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-05-14 | [solution](problems/0354-handle-missing-data-with-imputation) |
