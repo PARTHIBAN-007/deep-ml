@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:39:50.499Z",
+  "generated_at": "2026-10-08T15:39:52.508Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1352,6 +1352,32 @@
       "last_pushed_at": "2026-06-16T16:19:01.527Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:1009": {
+      "kind": "problem",
+      "id": "1009",
+      "title": "Count Trainable Parameters with Weight Tying in a GPT Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1009",
+      "path": "problems/1009-count-trainable-parameters-with-weight-tying-in-a-gpt-model",
+      "first_solved_at": "2026-06-17T16:01:37.314Z",
+      "last_pushed_at": "2026-06-17T16:01:37.314Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:945": {
+      "kind": "problem",
+      "id": "945",
+      "title": "Token Embedding Lookup Table",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/945",
+      "path": "problems/0945-token-embedding-lookup-table",
+      "first_solved_at": "2026-06-17T16:06:20.371Z",
+      "last_pushed_at": "2026-06-17T16:06:20.371Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }

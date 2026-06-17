@@ -1,0 +1,5 @@
+import numpy as np
+
+def token_embedding_lookup(vocab_size: int, embed_dim: int, token_ids: list, seed: int = 0) -> list:
+    vocabulary = np.random.default_rng(seed = seed).standard_normal(size = (vocab_size,embed_dim))
+    return vocabulary[token_ids]
