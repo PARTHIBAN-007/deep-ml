@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:40:36.631Z",
+  "generated_at": "2026-10-08T15:40:38.691Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1586,6 +1586,32 @@
       "last_pushed_at": "2026-07-03T15:57:58.045Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-07-04T15:31:59.429Z",
+      "last_pushed_at": "2026-07-04T15:31:59.429Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:331": {
+      "kind": "problem",
+      "id": "331",
+      "title": "Check Linear Independence of Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/331",
+      "path": "problems/0331-check-linear-independence-of-vectors",
+      "first_solved_at": "2026-07-04T15:33:23.270Z",
+      "last_pushed_at": "2026-07-04T15:33:23.270Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
