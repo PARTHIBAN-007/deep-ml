@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**126** solved · 126 problems · 0 labs · 0 math
+**127** solved · 127 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -100,6 +100,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-06-05 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
 | [Count Trainable Parameters with Weight Tying in a GPT Model](https://www.deep-ml.com/problems/1009) | medium | 2026-06-17 | [solution](problems/1009-count-trainable-parameters-with-weight-tying-in-a-gpt-model) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-06-07 | [solution](problems/0327-engram-context-aware-gating) |
+| [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-07-07 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-07-06 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-06-16 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-05-14 | [solution](problems/0354-handle-missing-data-with-imputation) |
