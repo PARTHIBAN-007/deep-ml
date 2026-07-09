@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**128** solved · 128 problems · 0 labs · 0 math
+**129** solved · 129 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -95,6 +95,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-06-12 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-04-27 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-05-16 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-07-09 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2026-06-14 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-07-08 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute the Null Space (Kernel) of a Matrix](https://www.deep-ml.com/problems/330) | medium | 2026-07-01 | [solution](problems/0330-compute-the-null-space-kernel-of-a-matrix) |
