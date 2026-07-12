@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**131** solved · 131 problems · 0 labs · 0 math
+**132** solved · 132 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -142,6 +142,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/904) | hard | 2026-06-08 | [solution](problems/0904-implement-multi-head-self-attention) |
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-06-08 | [solution](problems/0405-multi-head-latent-attention-mla) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-05-20 | [solution](problems/0085-positional-encoding-calculator) |
+| [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-07-12 | [solution](problems/0201-qr-decomposition) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-07-11 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 
 ---
