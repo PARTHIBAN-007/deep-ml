@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**132** solved · 132 problems · 0 labs · 0 math
+**133** solved · 133 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -100,6 +100,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-07-08 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute the Null Space (Kernel) of a Matrix](https://www.deep-ml.com/problems/330) | medium | 2026-07-01 | [solution](problems/0330-compute-the-null-space-kernel-of-a-matrix) |
 | [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-06-05 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
+| [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-07-13 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Count Trainable Parameters with Weight Tying in a GPT Model](https://www.deep-ml.com/problems/1009) | medium | 2026-06-17 | [solution](problems/1009-count-trainable-parameters-with-weight-tying-in-a-gpt-model) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-06-07 | [solution](problems/0327-engram-context-aware-gating) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-07-07 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
