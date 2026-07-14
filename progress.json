@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:40:57.276Z",
+  "generated_at": "2026-10-08T15:40:59.383Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1729,6 +1729,32 @@
       "last_pushed_at": "2026-07-13T16:36:14.961Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:243": {
+      "kind": "problem",
+      "id": "243",
+      "title": "Compute Covariance from Joint Probability Mass Function",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/243",
+      "path": "problems/0243-compute-covariance-from-joint-probability-mass-function",
+      "first_solved_at": "2026-07-14T16:21:02.220Z",
+      "last_pushed_at": "2026-07-14T16:21:02.220Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:340": {
+      "kind": "problem",
+      "id": "340",
+      "title": "Exponential Distribution PDF and CDF",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/340",
+      "path": "problems/0340-exponential-distribution-pdf-and-cdf",
+      "first_solved_at": "2026-07-14T16:29:36.119Z",
+      "last_pushed_at": "2026-07-14T16:29:36.119Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
