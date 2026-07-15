@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**135** solved · 135 problems · 0 labs · 0 math
+**136** solved · 136 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -91,6 +91,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-06-04 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2026-06-27 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-05-28 | [solution](problems/0087-adam-optimizer) |
+| [Beta Distribution PDF and Statistics](https://www.deep-ml.com/problems/339) | medium | 2026-07-15 | [solution](problems/0339-beta-distribution-pdf-and-statistics) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-05-25 | [solution](problems/0079-binomial-distribution-probability) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-05-19 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-06-12 | [solution](problems/0037-calculate-correlation-matrix) |
