@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:41:01.473Z",
+  "generated_at": "2026-10-08T15:41:03.580Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1768,6 +1768,58 @@
       "last_pushed_at": "2026-07-15T16:25:04.801Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:245": {
+      "kind": "problem",
+      "id": "245",
+      "title": "Hypergeometric Distribution PMF",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/245",
+      "path": "problems/0245-hypergeometric-distribution-pmf",
+      "first_solved_at": "2026-07-16T15:53:25.149Z",
+      "last_pushed_at": "2026-07-16T15:53:25.149Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:247": {
+      "kind": "problem",
+      "id": "247",
+      "title": "Negative Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/247",
+      "path": "problems/0247-negative-binomial-distribution-probability",
+      "first_solved_at": "2026-07-16T15:55:18.928Z",
+      "last_pushed_at": "2026-07-16T15:55:18.928Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:342": {
+      "kind": "problem",
+      "id": "342",
+      "title": "Demonstrate Law of Large Numbers with Sampling",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/342",
+      "path": "problems/0342-demonstrate-law-of-large-numbers-with-sampling",
+      "first_solved_at": "2026-07-16T16:00:14.433Z",
+      "last_pushed_at": "2026-07-16T16:00:14.433Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:181": {
+      "kind": "problem",
+      "id": "181",
+      "title": "Sampling Distribution of the Mean",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/181",
+      "path": "problems/0181-sampling-distribution-of-the-mean",
+      "first_solved_at": "2026-07-16T16:12:45.283Z",
+      "last_pushed_at": "2026-07-16T16:12:45.283Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
