@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:41:03.580Z",
+  "generated_at": "2026-10-08T15:41:05.865Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1820,6 +1820,45 @@
       "last_pushed_at": "2026-07-16T16:12:45.283Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:182": {
+      "kind": "problem",
+      "id": "182",
+      "title": "Central Limit Theorem Simulation",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/182",
+      "path": "problems/0182-central-limit-theorem-simulation",
+      "first_solved_at": "2026-07-17T15:45:49.946Z",
+      "last_pushed_at": "2026-07-17T15:45:49.946Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:205": {
+      "kind": "problem",
+      "id": "205",
+      "title": "Entropy & Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/205",
+      "path": "problems/0205-entropy-cross-entropy",
+      "first_solved_at": "2026-07-17T15:50:28.149Z",
+      "last_pushed_at": "2026-07-17T15:50:28.149Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:203": {
+      "kind": "problem",
+      "id": "203",
+      "title": "Jensen-Shannon Divergence",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/203",
+      "path": "problems/0203-jensen-shannon-divergence",
+      "first_solved_at": "2026-07-17T15:59:57.415Z",
+      "last_pushed_at": "2026-07-17T15:59:57.415Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
