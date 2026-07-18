@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**143** solved · 143 problems · 0 labs · 0 math
+**144** solved · 144 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -98,6 +98,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-05-19 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-06-12 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-04-27 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2026-07-18 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-05-16 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-07-17 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-07-09 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
