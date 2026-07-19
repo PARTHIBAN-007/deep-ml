@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:41:07.994Z",
+  "generated_at": "2026-10-08T15:41:10.046Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1872,6 +1872,19 @@
       "last_pushed_at": "2026-07-18T15:42:33.288Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-07-19T13:44:32.719Z",
+      "last_pushed_at": "2026-07-19T13:44:32.719Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }
