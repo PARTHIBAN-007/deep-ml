@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**145** solved · 145 problems · 0 labs · 0 math
+**146** solved · 146 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -101,6 +101,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2026-07-18 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-05-16 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-07-17 | [solution](problems/0182-central-limit-theorem-simulation) |
+| [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-07-20 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-07-09 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2026-06-14 | [solution](problems/0176-chi-square-probability-distribution) |
 | [Compute Covariance from Joint Probability Mass Function](https://www.deep-ml.com/problems/243) | medium | 2026-07-14 | [solution](problems/0243-compute-covariance-from-joint-probability-mass-function) |
