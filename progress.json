@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:41:22.034Z",
+  "generated_at": "2026-10-08T15:41:24.451Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -1961,6 +1961,58 @@
       "path": "problems/0338-maximum-a-posteriori-map-estimation-for-bernoulli-parameter",
       "first_solved_at": "2026-07-25T12:18:37.489Z",
       "last_pushed_at": "2026-07-25T12:18:37.489Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:212": {
+      "kind": "problem",
+      "id": "212",
+      "title": "Confidence Interval for Population Mean",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/212",
+      "path": "problems/0212-confidence-interval-for-population-mean",
+      "first_solved_at": "2026-07-26T04:06:04.648Z",
+      "last_pushed_at": "2026-07-26T04:06:04.648Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:296": {
+      "kind": "problem",
+      "id": "296",
+      "title": "Calculate Statistical Power for Experiment Design",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/296",
+      "path": "problems/0296-calculate-statistical-power-for-experiment-design",
+      "first_solved_at": "2026-07-26T04:54:31.026Z",
+      "last_pushed_at": "2026-07-26T04:54:31.026Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:211": {
+      "kind": "problem",
+      "id": "211",
+      "title": "Two-Sample T-Test Implementation",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/211",
+      "path": "problems/0211-two-sample-t-test-implementation",
+      "first_solved_at": "2026-07-26T05:17:02.546Z",
+      "last_pushed_at": "2026-07-26T05:17:02.546Z",
+      "language": "python",
+      "lines": 84
+    },
+    "problem:213": {
+      "kind": "problem",
+      "id": "213",
+      "title": "Bayesian Inference for Beta-Binomial Model",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/213",
+      "path": "problems/0213-bayesian-inference-for-beta-binomial-model",
+      "first_solved_at": "2026-07-26T05:36:08.252Z",
+      "last_pushed_at": "2026-07-26T05:36:08.252Z",
       "language": "python",
       "lines": 7
     }
