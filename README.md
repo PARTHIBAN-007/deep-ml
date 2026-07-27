@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**155** solved · 155 problems · 0 labs · 0 math
+**156** solved · 156 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -167,6 +167,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-07-12 | [solution](problems/0201-qr-decomposition) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-07-11 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-07-26 | [solution](problems/0211-two-sample-t-test-implementation) |
+| [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2026-07-27 | [solution](problems/0206-variational-inference-elbo-computation) |
 
 ---
 
