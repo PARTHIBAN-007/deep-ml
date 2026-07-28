@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**156** solved · 156 problems · 0 labs · 0 math
+**157** solved · 157 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -158,6 +158,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-06-06 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Rotary Positional Embeddings (RoPE)](https://www.deep-ml.com/problems/381) | medium | 2026-05-24 | [solution](problems/0381-rotary-positional-embeddings-rope) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-06-06 | [solution](problems/0041-simple-convolutional-2d-layer) |
+| [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-07-28 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-05-27 | [solution](problems/0388-sliding-window-attention) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-05-20 | [solution](problems/0094-implement-multi-head-attention) |
