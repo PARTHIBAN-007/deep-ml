@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**166** solved · 164 problems · 0 labs · 2 math
+**167** solved · 165 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -129,6 +129,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-05-14 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-07-16 | [solution](problems/0245-hypergeometric-distribution-pmf) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-05-26 | [solution](problems/0049-implement-adam-optimization-algorithm) |
+| [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-08-05 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-06-28 | [solution](problems/0126-implement-group-normalization) |
 | [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-05-23 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-05-16 | [solution](problems/0018-implement-k-fold-cross-validation) |
