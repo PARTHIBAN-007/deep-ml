@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**171** solved · 169 problems · 0 labs · 2 math
+**173** solved · 170 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -59,6 +59,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-05-15 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-05-15 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-04-23 | [solution](problems/0042-implement-relu-activation-function) |
+| [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-08-08 | [solution](problems/1226-implement-relu-and-leaky-relu) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-06-09 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implement RMSNorm (Root Mean Square Layer Normalization)](https://www.deep-ml.com/problems/372) | easy | 2026-05-21 | [solution](problems/0372-implement-rmsnorm-root-mean-square-layer-normalization) |
 | [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-05-21 | [solution](problems/0156-implement-swiglu-activation-function) |
@@ -188,6 +189,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-08-02 | [solution](math/0030-ml-workflow-basics) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-08-02 | [solution](math/0031-regularization-and-generalization) |
+| [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-08-08 | [solution](math/0046-the-four-fundamental-subspaces) |
 
 ---
 
