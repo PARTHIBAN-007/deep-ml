@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:41:51.284Z",
+  "generated_at": "2026-10-08T15:41:53.191Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2243,6 +2243,19 @@
       "path": "math/0046-the-four-fundamental-subspaces",
       "first_solved_at": "2026-08-08T16:15:44.865Z",
       "last_pushed_at": "2026-08-08T16:15:44.865Z"
+    },
+    "problem:1228": {
+      "kind": "problem",
+      "id": "1228",
+      "title": "Mean Squared Error from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1228",
+      "path": "problems/1228-mean-squared-error-from-scratch",
+      "first_solved_at": "2026-08-09T16:20:19.037Z",
+      "last_pushed_at": "2026-08-09T16:20:19.037Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
