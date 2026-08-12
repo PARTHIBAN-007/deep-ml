@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**177** solved · 174 problems · 0 labs · 3 math
+**178** solved · 175 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -178,6 +178,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-07-28 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-05-27 | [solution](problems/0388-sliding-window-attention) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-08-12 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-05-20 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/904) | hard | 2026-06-08 | [solution](problems/0904-implement-multi-head-self-attention) |
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-06-08 | [solution](problems/0405-multi-head-latent-attention-mla) |
