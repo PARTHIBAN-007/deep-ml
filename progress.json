@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:41:59.360Z",
+  "generated_at": "2026-10-08T15:42:01.376Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2308,6 +2308,19 @@
       "last_pushed_at": "2026-08-12T16:26:37.996Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:1229": {
+      "kind": "problem",
+      "id": "1229",
+      "title": "Binary Cross-Entropy from Logits",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1229",
+      "path": "problems/1229-binary-cross-entropy-from-logits",
+      "first_solved_at": "2026-08-13T16:34:22.525Z",
+      "last_pushed_at": "2026-08-13T16:34:22.525Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
