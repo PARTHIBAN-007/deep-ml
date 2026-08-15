@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**180** solved · 177 problems · 0 labs · 3 math
+**183** solved · 180 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -85,6 +85,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-08-09 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-05-07 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-06-11 | [solution](problems/0146-momentum-optimizer) |
+| [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-08-15 | [solution](problems/1234-one-sgd-update-step) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-05-13 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-05-21 | [solution](problems/0081-poisson-distribution-probability-calculator) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-08-06 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
@@ -170,12 +171,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-07-16 | [solution](problems/0247-negative-binomial-distribution-probability) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-05-25 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-08-04 | [solution](problems/0313-numerical-gradient-checking) |
+| [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-08-15 | [solution](problems/1236-one-adam-update-step) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-07-19 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-06-26 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-06-06 | [solution](problems/0309-product-rule-for-derivatives) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-06-29 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-06-06 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Rotary Positional Embeddings (RoPE)](https://www.deep-ml.com/problems/381) | medium | 2026-05-24 | [solution](problems/0381-rotary-positional-embeddings-rope) |
+| [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-08-15 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-06-06 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-07-28 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-05-27 | [solution](problems/0388-sliding-window-attention) |

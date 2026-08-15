@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:42:03.239Z",
+  "generated_at": "2026-10-08T15:42:05.270Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2334,6 +2334,45 @@
       "last_pushed_at": "2026-08-14T16:26:49.164Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:1234": {
+      "kind": "problem",
+      "id": "1234",
+      "title": "One SGD Update Step",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1234",
+      "path": "problems/1234-one-sgd-update-step",
+      "first_solved_at": "2026-08-15T16:07:18.813Z",
+      "last_pushed_at": "2026-08-15T16:07:18.813Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:1235": {
+      "kind": "problem",
+      "id": "1235",
+      "title": "SGD with Momentum Step",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1235",
+      "path": "problems/1235-sgd-with-momentum-step",
+      "first_solved_at": "2026-08-15T16:09:18.627Z",
+      "last_pushed_at": "2026-08-15T16:09:18.627Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:1236": {
+      "kind": "problem",
+      "id": "1236",
+      "title": "One Adam Update Step",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1236",
+      "path": "problems/1236-one-adam-update-step",
+      "first_solved_at": "2026-08-15T16:12:07.909Z",
+      "last_pushed_at": "2026-08-15T16:12:07.909Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
