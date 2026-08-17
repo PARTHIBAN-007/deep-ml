@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:42:07.349Z",
+  "generated_at": "2026-10-08T15:42:09.278Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2386,6 +2386,41 @@
       "last_pushed_at": "2026-08-16T16:32:17.521Z",
       "language": "python",
       "lines": 11
+    },
+    "math:62": {
+      "kind": "math",
+      "id": "62",
+      "title": "Bytes in the KV Cache (MHA, GQA, MQA, MLA)",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/62",
+      "path": "math/0062-bytes-in-the-kv-cache-mha-gqa-mqa-mla",
+      "first_solved_at": "2026-08-17T14:10:44.783Z",
+      "last_pushed_at": "2026-08-17T14:10:44.783Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-08-17T14:24:20.591Z",
+      "last_pushed_at": "2026-08-17T14:24:20.591Z"
+    },
+    "problem:1227": {
+      "kind": "problem",
+      "id": "1227",
+      "title": "Numerically Stable Softmax",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1227",
+      "path": "problems/1227-numerically-stable-softmax",
+      "first_solved_at": "2026-08-17T14:39:09.597Z",
+      "last_pushed_at": "2026-08-17T14:39:09.597Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**184** solved · 181 problems · 0 labs · 3 math
+**187** solved · 182 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -171,6 +171,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-07-16 | [solution](problems/0247-negative-binomial-distribution-probability) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-05-25 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-08-04 | [solution](problems/0313-numerical-gradient-checking) |
+| [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-08-17 | [solution](problems/1227-numerically-stable-softmax) |
 | [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-08-15 | [solution](problems/1236-one-adam-update-step) |
 | [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-08-16 | [solution](problems/1219-one-training-step) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-07-19 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
@@ -198,8 +199,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Bytes in the KV Cache (MHA, GQA, MQA, MLA)](https://www.deep-ml.com/math-problems/62) | easy | 2026-08-17 | [solution](math/0062-bytes-in-the-kv-cache-mha-gqa-mqa-mla) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-08-02 | [solution](math/0030-ml-workflow-basics) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-08-02 | [solution](math/0031-regularization-and-generalization) |
+| [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-08-17 | [solution](math/0032-softmax-and-cross-entropy) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-08-08 | [solution](math/0046-the-four-fundamental-subspaces) |
 
 ---
