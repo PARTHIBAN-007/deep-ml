@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**187** solved · 182 problems · 0 labs · 5 math
+**188** solved · 183 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -105,6 +105,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-07-22 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2026-06-27 | [solution](problems/0149-adadelta-optimizer) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-05-28 | [solution](problems/0087-adam-optimizer) |
+| [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-08-18 | [solution](problems/1233-apply-a-2d-convolution) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-07-26 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
 | [Beta Distribution PDF and Statistics](https://www.deep-ml.com/problems/339) | medium | 2026-07-15 | [solution](problems/0339-beta-distribution-pdf-and-statistics) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-08-13 | [solution](problems/1229-binary-cross-entropy-from-logits) |
