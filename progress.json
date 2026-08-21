@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:42:16.498Z",
+  "generated_at": "2026-10-08T15:42:18.441Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2460,6 +2460,19 @@
       "last_pushed_at": "2026-08-20T15:53:04.522Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:1230": {
+      "kind": "problem",
+      "id": "1230",
+      "title": "Dropout in Train vs Eval Mode",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1230",
+      "path": "problems/1230-dropout-in-train-vs-eval-mode",
+      "first_solved_at": "2026-08-21T16:26:12.939Z",
+      "last_pushed_at": "2026-08-21T16:26:12.939Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
