@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**194** solved · 187 problems · 0 labs · 7 math
+**195** solved · 188 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-05-16 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-05-15 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-06-11 | [solution](problems/0282-calculate-svm-margin-width) |
+| [Calculate Vocabulary Size from Token List](https://www.deep-ml.com/problems/953) | easy | 2026-08-23 | [solution](problems/0953-calculate-vocabulary-size-from-token-list) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-07-04 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-05-11 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-06-06 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
