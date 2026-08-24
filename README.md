@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**195** solved · 188 problems · 0 labs · 7 math
+**196** solved · 189 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -150,6 +150,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-08-05 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-06-28 | [solution](problems/0126-implement-group-normalization) |
 | [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-05-23 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
+| [Implement GRU Cell](https://www.deep-ml.com/problems/287) | medium | 2026-08-24 | [solution](problems/0287-implement-gru-cell) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-05-16 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-06-10 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-05-20 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
