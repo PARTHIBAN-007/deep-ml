@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:42:24.379Z",
+  "generated_at": "2026-10-08T15:42:26.424Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2532,6 +2532,19 @@
       "path": "problems/0287-implement-gru-cell",
       "first_solved_at": "2026-08-24T16:13:30.523Z",
       "last_pushed_at": "2026-08-24T16:13:30.523Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:198": {
+      "kind": "problem",
+      "id": "198",
+      "title": "Implement Weight Decay as L2 Regularization",
+      "difficulty": "easy",
+      "category": "Regularization",
+      "url": "https://www.deep-ml.com/problems/198",
+      "path": "problems/0198-implement-weight-decay-as-l2-regularization",
+      "first_solved_at": "2026-08-25T16:11:41.431Z",
+      "last_pushed_at": "2026-08-25T16:11:41.431Z",
       "language": "python",
       "lines": 11
     }
