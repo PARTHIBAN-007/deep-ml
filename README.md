@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**197** solved · 190 problems · 0 labs · 7 math
+**198** solved · 191 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -149,6 +149,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-07-16 | [solution](problems/0245-hypergeometric-distribution-pmf) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-05-26 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-08-05 | [solution](problems/0169-implement-adamw-optimizer-step) |
+| [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-08-26 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-06-28 | [solution](problems/0126-implement-group-normalization) |
 | [Implement Grouped Query Attention (GQA)](https://www.deep-ml.com/problems/391) | medium | 2026-05-23 | [solution](problems/0391-implement-grouped-query-attention-gqa) |
 | [Implement GRU Cell](https://www.deep-ml.com/problems/287) | medium | 2026-08-24 | [solution](problems/0287-implement-gru-cell) |
