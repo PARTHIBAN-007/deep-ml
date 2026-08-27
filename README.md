@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**198** solved · 191 problems · 0 labs · 7 math
+**199** solved · 192 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -119,6 +119,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-06-12 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-04-27 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate KL Divergence Between Two Multivariate Gaussian Distributions](https://www.deep-ml.com/problems/136) | medium | 2026-07-18 | [solution](problems/0136-calculate-kl-divergence-between-two-multivariate-gaussian-distributions) |
+| [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/291) | medium | 2026-08-27 | [solution](problems/0291-calculate-number-of-parameters-in-neural-network) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-05-16 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Calculate Statistical Power for Experiment Design](https://www.deep-ml.com/problems/296) | medium | 2026-07-26 | [solution](problems/0296-calculate-statistical-power-for-experiment-design) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-07-17 | [solution](problems/0182-central-limit-theorem-simulation) |
