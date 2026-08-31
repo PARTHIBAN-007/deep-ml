@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**201** solved · 194 problems · 0 labs · 7 math
+**202** solved · 195 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -163,6 +163,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Multiquery Attention (MQA)](https://www.deep-ml.com/problems/390) | medium | 2026-05-22 | [solution](problems/0390-implement-multiquery-attention-mqa) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-07-03 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-06-11 | [solution](problems/0200-implement-rmsprop-optimizer) |
+| [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-08-31 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-05-02 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-06-11 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-06-11 | [solution](problems/0192-implement-the-huber-loss-function) |
