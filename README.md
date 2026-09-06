@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**205** solved · 198 problems · 0 labs · 7 math
+**206** solved · 199 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -201,6 +201,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-05-27 | [solution](problems/0388-sliding-window-attention) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-09-05 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
+| [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-09-06 | [solution](problems/0378-temperature-sampling) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-08-12 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-05-20 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/904) | hard | 2026-06-08 | [solution](problems/0904-implement-multi-head-self-attention) |
