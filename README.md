@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**207** solved · 200 problems · 0 labs · 7 math
+**208** solved · 201 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -140,6 +140,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-08-02 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-08-01 | [solution](problems/0219-derivative-of-softmax) |
 | [Dropout in Train vs Eval Mode](https://www.deep-ml.com/problems/1230) | medium | 2026-08-21 | [solution](problems/1230-dropout-in-train-vs-eval-mode) |
+| [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-09-08 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-06-07 | [solution](problems/0327-engram-context-aware-gating) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-07-17 | [solution](problems/0205-entropy-cross-entropy) |
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-08-07 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |

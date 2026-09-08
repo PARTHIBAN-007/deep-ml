@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:42:46.299Z",
+  "generated_at": "2026-10-08T15:42:48.199Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2677,6 +2677,19 @@
       "last_pushed_at": "2026-09-07T16:24:01.072Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:139": {
+      "kind": "problem",
+      "id": "139",
+      "title": "Elastic Net Regression via Gradient Descent",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/139",
+      "path": "problems/0139-elastic-net-regression-via-gradient-descent",
+      "first_solved_at": "2026-09-08T15:38:57.226Z",
+      "last_pushed_at": "2026-09-08T15:38:57.226Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
