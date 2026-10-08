@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:42:58.818Z",
+  "generated_at": "2026-10-08T15:43:00.924Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -2103,7 +2103,7 @@
       "url": "https://www.deep-ml.com/math-problems/30",
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-08-02T16:08:10.704Z",
-      "last_pushed_at": "2026-08-02T16:08:10.704Z"
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
     },
     "math:31": {
       "kind": "math",
@@ -2114,7 +2114,7 @@
       "url": "https://www.deep-ml.com/math-problems/31",
       "path": "math/0031-regularization-and-generalization",
       "first_solved_at": "2026-08-02T16:16:19.043Z",
-      "last_pushed_at": "2026-08-02T16:16:19.043Z"
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
     },
     "problem:220": {
       "kind": "problem",
@@ -2242,7 +2242,7 @@
       "url": "https://www.deep-ml.com/math-problems/46",
       "path": "math/0046-the-four-fundamental-subspaces",
       "first_solved_at": "2026-08-08T16:15:44.865Z",
-      "last_pushed_at": "2026-08-08T16:15:44.865Z"
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
     },
     "problem:1228": {
       "kind": "problem",
@@ -2396,7 +2396,7 @@
       "url": "https://www.deep-ml.com/math-problems/62",
       "path": "math/0062-bytes-in-the-kv-cache-mha-gqa-mqa-mla",
       "first_solved_at": "2026-08-17T14:10:44.783Z",
-      "last_pushed_at": "2026-08-17T14:10:44.783Z"
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
     },
     "math:32": {
       "kind": "math",
@@ -2407,7 +2407,7 @@
       "url": "https://www.deep-ml.com/math-problems/32",
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-08-17T14:24:20.591Z",
-      "last_pushed_at": "2026-08-17T14:24:20.591Z"
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
     },
     "problem:1227": {
       "kind": "problem",
@@ -2483,7 +2483,7 @@
       "url": "https://www.deep-ml.com/math-problems/34",
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-08-22T14:59:58.121Z",
-      "last_pushed_at": "2026-08-22T14:59:58.121Z"
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
     },
     "math:33": {
       "kind": "math",
@@ -2494,7 +2494,7 @@
       "url": "https://www.deep-ml.com/math-problems/33",
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-08-22T15:03:40.804Z",
-      "last_pushed_at": "2026-08-22T15:03:40.804Z"
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
     },
     "problem:955": {
       "kind": "problem",
@@ -2755,6 +2755,325 @@
       "last_pushed_at": "2026-09-16T16:09:20.726Z",
       "language": "python",
       "lines": 5
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-10-08T15:43:00.921Z",
+      "last_pushed_at": "2026-10-08T15:43:00.921Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-08T15:43:00.921Z",
+      "last_pushed_at": "2026-10-08T15:43:00.921Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-10-08T15:43:00.921Z",
+      "last_pushed_at": "2026-10-08T15:43:00.921Z"
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:11": {
+      "kind": "math",
+      "id": "11",
+      "title": "Determinants and Trace",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/11",
+      "path": "math/0011-determinants-and-trace",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:2": {
+      "kind": "math",
+      "id": "2",
+      "title": "Multivariate Calculus",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/2",
+      "path": "math/0002-multivariate-calculus",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:20": {
+      "kind": "math",
+      "id": "20",
+      "title": "Bayes' Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/20",
+      "path": "math/0020-bayes-theorem",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:13": {
+      "kind": "math",
+      "id": "13",
+      "title": "Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/13",
+      "path": "math/0013-solving-linear-systems",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:17": {
+      "kind": "math",
+      "id": "17",
+      "title": "Covariance and Correlation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/17",
+      "path": "math/0017-covariance-and-correlation",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:14": {
+      "kind": "math",
+      "id": "14",
+      "title": "Orthogonality and Projections",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/14",
+      "path": "math/0014-orthogonality-and-projections",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:6": {
+      "kind": "math",
+      "id": "6",
+      "title": "Optimization: Convexity and Critical Points",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/6",
+      "path": "math/0006-optimization-convexity-and-critical-points",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:23": {
+      "kind": "math",
+      "id": "23",
+      "title": "Law of Large Numbers and Central Limit Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/23",
+      "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:21": {
+      "kind": "math",
+      "id": "21",
+      "title": "Common Distributions I: Bernoulli, Binomial, Uniform",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/21",
+      "path": "math/0021-common-distributions-i-bernoulli-binomial-uniform",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:22": {
+      "kind": "math",
+      "id": "22",
+      "title": "Common Distributions II: Normal, Poisson, Exponential",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/22",
+      "path": "math/0022-common-distributions-ii-normal-poisson-exponential",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:27": {
+      "kind": "math",
+      "id": "27",
+      "title": "Statistical Inference",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/27",
+      "path": "math/0027-statistical-inference",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:24": {
+      "kind": "math",
+      "id": "24",
+      "title": "Information Theory: Entropy",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/24",
+      "path": "math/0024-information-theory-entropy",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:15": {
+      "kind": "math",
+      "id": "15",
+      "title": "Matrix Decompositions: LU and QR",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/15",
+      "path": "math/0015-matrix-decompositions-lu-and-qr",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:16": {
+      "kind": "math",
+      "id": "16",
+      "title": "Eigendecomposition and SVD",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/16",
+      "path": "math/0016-eigendecomposition-and-svd",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:28": {
+      "kind": "math",
+      "id": "28",
+      "title": "Bayesian Methods",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/28",
+      "path": "math/0028-bayesian-methods",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:29": {
+      "kind": "math",
+      "id": "29",
+      "title": "Probabilistic Models",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/29",
+      "path": "math/0029-probabilistic-models",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:26": {
+      "kind": "math",
+      "id": "26",
+      "title": "Maximum Likelihood and MAP",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/26",
+      "path": "math/0026-maximum-likelihood-and-map",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
+    },
+    "math:25": {
+      "kind": "math",
+      "id": "25",
+      "title": "KL Divergence",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/25",
+      "path": "math/0025-kl-divergence",
+      "first_solved_at": "2026-10-08T15:43:00.922Z",
+      "last_pushed_at": "2026-10-08T15:43:00.922Z"
     }
   }
 }
