@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:33:32.740Z",
+  "generated_at": "2026-10-11T08:38:53.737Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -3118,6 +3118,17 @@
       "path": "math/0074-properties-of-estimators-bias-consistency-efficiency",
       "first_solved_at": "2026-10-11T08:33:31.774Z",
       "last_pushed_at": "2026-10-11T08:33:31.774Z"
+    },
+    "math:94": {
+      "kind": "math",
+      "id": "94",
+      "title": "Ridge vs Lasso: Constraint Geometry and Soft-Thresholding",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/94",
+      "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
+      "first_solved_at": "2026-10-11T08:38:50.185Z",
+      "last_pushed_at": "2026-10-11T08:38:50.185Z"
     }
   }
 }
