@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:38:53.737Z",
+  "generated_at": "2026-10-11T08:43:29.483Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -3129,6 +3129,17 @@
       "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
       "first_solved_at": "2026-10-11T08:38:50.185Z",
       "last_pushed_at": "2026-10-11T08:38:50.185Z"
+    },
+    "math:114": {
+      "kind": "math",
+      "id": "114",
+      "title": "Bagging, Variance Reduction and Random Forests",
+      "difficulty": "hard",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/114",
+      "path": "math/0114-bagging-variance-reduction-and-random-forests",
+      "first_solved_at": "2026-10-11T08:43:28.689Z",
+      "last_pushed_at": "2026-10-11T08:43:28.689Z"
     }
   }
 }
