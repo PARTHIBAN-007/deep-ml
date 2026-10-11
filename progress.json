@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:22:46.865Z",
+  "generated_at": "2026-10-11T08:27:09.348Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -3096,6 +3096,17 @@
       "path": "math/0090-odds-log-odds-and-reading-logistic-coefficients",
       "first_solved_at": "2026-10-11T08:22:46.187Z",
       "last_pushed_at": "2026-10-11T08:22:46.187Z"
+    },
+    "math:113": {
+      "kind": "math",
+      "id": "113",
+      "title": "Classification Trees: Gini, Entropy and Information Gain",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/113",
+      "path": "math/0113-classification-trees-gini-entropy-and-information-gain",
+      "first_solved_at": "2026-10-11T08:27:08.521Z",
+      "last_pushed_at": "2026-10-11T08:27:08.521Z"
     }
   }
 }
