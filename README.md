@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**248** solved · 203 problems · 3 labs · 42 math
+**249** solved · 203 problems · 3 labs · 43 math
 
 ![Coverage](./coverage.svg)
 
@@ -269,6 +269,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-10-08 | [solution](math/0026-maximum-likelihood-and-map) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-10-08 | [solution](math/0029-probabilistic-models) |
 | [Properties of Estimators: Bias, Consistency, Efficiency](https://www.deep-ml.com/math-problems/74) | hard | 2026-10-11 | [solution](math/0074-properties-of-estimators-bias-consistency-efficiency) |
+| [Recurrent Networks, Weight Sharing and Vanishing Gradients](https://www.deep-ml.com/math-problems/117) | hard | 2026-10-11 | [solution](math/0117-recurrent-networks-weight-sharing-and-vanishing-gradients) |
 | [Ridge vs Lasso: Constraint Geometry and Soft-Thresholding](https://www.deep-ml.com/math-problems/94) | hard | 2026-10-11 | [solution](math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding) |
 
 ---
