@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:18:24.774Z",
+  "generated_at": "2026-10-11T08:22:46.865Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -3085,6 +3085,17 @@
       "path": "math/0063-arithmetic-intensity-of-matmul-vs-decode-attention",
       "first_solved_at": "2026-10-11T08:18:23.935Z",
       "last_pushed_at": "2026-10-11T08:18:23.935Z"
+    },
+    "math:90": {
+      "kind": "math",
+      "id": "90",
+      "title": "Odds, Log-Odds, and Reading Logistic Coefficients",
+      "difficulty": "easy",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/90",
+      "path": "math/0090-odds-log-odds-and-reading-logistic-coefficients",
+      "first_solved_at": "2026-10-11T08:22:46.187Z",
+      "last_pushed_at": "2026-10-11T08:22:46.187Z"
     }
   }
 }
