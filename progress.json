@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:27:09.348Z",
+  "generated_at": "2026-10-11T08:33:32.740Z",
   "items": {
     "problem:42": {
       "kind": "problem",
@@ -3107,6 +3107,17 @@
       "path": "math/0113-classification-trees-gini-entropy-and-information-gain",
       "first_solved_at": "2026-10-11T08:27:08.521Z",
       "last_pushed_at": "2026-10-11T08:27:08.521Z"
+    },
+    "math:74": {
+      "kind": "math",
+      "id": "74",
+      "title": "Properties of Estimators: Bias, Consistency, Efficiency",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/74",
+      "path": "math/0074-properties-of-estimators-bias-consistency-efficiency",
+      "first_solved_at": "2026-10-11T08:33:31.774Z",
+      "last_pushed_at": "2026-10-11T08:33:31.774Z"
     }
   }
 }
